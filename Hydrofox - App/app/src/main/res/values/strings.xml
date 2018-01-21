@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HydroFox</string>
+    <string name="api_access">
+        Registo em backend.sigfox.com e retirar informação de acesso a API
+    </string>
+    <string name="menu_action_setting">Definições</string>
+    <string name="menu_about">Sobre</string>
+    <string name="about">A aplicação Hydrofox foi criado por Rui Barbosa em 2017 para o seu projeto de Dissertação - Caudalímetro Inteligente com Sigfox - para efeitos de obtenção do grau de Mestre no Mestrado Integrado em Engenharia Electrotécnica e Computadores na FEUP.</string>
+    <string name="author_linkedin">
+        <a href="https://www.linkedin.com/in/ruibarbosa03/">Rui Barbosa </a>
+    </string>
+    <string name="thesis">Caudalímetro Inteligente com Sigfox</string>
+</resources>
